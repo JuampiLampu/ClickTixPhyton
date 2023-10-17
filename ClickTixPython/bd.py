@@ -122,4 +122,3 @@ class Conexion:
     self.cursor.close()
     self.conexion.close()
     
-tiago = 10
