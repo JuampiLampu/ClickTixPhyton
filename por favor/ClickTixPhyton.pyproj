@@ -3,13 +3,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4348f3ca-e18c-419d-87eb-6995ebfc6b94</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
+    <ProjectHome>
+    </ProjectHome>
     <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>por favor</Name>
+    <Name>ClickTixPhyton</Name>
     <RootNamespace>por favor</RootNamespace>
     <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
   </PropertyGroup>

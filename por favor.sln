@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "por favor", "por favor\por favor.pyproj", "{4348F3CA-E18C-419D-87EB-6995EBFC6B94}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ClickTixPhyton", "por favor\ClickTixPhyton.pyproj", "{4348F3CA-E18C-419D-87EB-6995EBFC6B94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
