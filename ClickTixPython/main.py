@@ -151,4 +151,3 @@ if __name__ == "__main__":
       print("Opción no válida. Inténtalo de nuevo.")
 
 
-tiago = 10
