@@ -1,6 +1,7 @@
 ﻿from bd import Conexion
 
 
+
 def menu_clientes(conexion):
   opcion_cliente = 0
   while opcion_cliente != "5":
@@ -151,3 +152,4 @@ if __name__ == "__main__":
       print("Opción no válida. Inténtalo de nuevo.")
 
 
+      print("prueba")
