@@ -149,3 +149,6 @@ if __name__ == "__main__":
       conexion.CerrarBD()
     else:
       print("Opción no válida. Inténtalo de nuevo.")
+
+
+tiago = 10
